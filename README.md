@@ -21,10 +21,7 @@ Quick Installation
 pip install lalsuite pycbc
 ```
 
-You can start up an interactive jupyter notebook with PyCBC using either of the links below.
-
-[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/nitz/libraries/pycbc)
-[![Start your mybinder session](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gwastro/PyCBC-Tutorials/master?filepath=index.ipynb)
+Want to get going using PyCBC? [Try out our tutorials](https://github.com/gwastro/PyCBC-Tutorials). No software installation required and these can run entirely from the browser. 
 
 If you use any code from PyCBC in a scientific publication, then we ask that
 it is cited in the following way:
